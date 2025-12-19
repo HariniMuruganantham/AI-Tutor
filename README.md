@@ -1,6 +1,10 @@
 # 🎓✨ AI Tutor – Your Intelligent Learning Buddy!
 
 <div align="center">
+<p align="center">
+  <img src="images/robot.jpg" alt="AI Tutor Robot" width="300">
+</p>
+
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
