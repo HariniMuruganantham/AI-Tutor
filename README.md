@@ -204,21 +204,6 @@ Perfect for:
 
 ---
 
-## 💌 Connect & Contribute
-
-### 🌟 Love This Project?
-- ⭐ Star this repo
-- 🍴 Fork it and make it yours
-- 🐛 Found a bug? [Open an issue](https://github.com/yourusername/ai-tutor/issues)
-- 💡 Have ideas? We'd love to hear them!
-
-### 📣 Stay Updated
-- 📧 Subscribe for updates
-- 🔔 Watch this repo
-- 💬 Join our community discussions
-
----
-
 ## 📜 Quick Note
 
 This project is a living, breathing thing that keeps getting better! 🌱 It's a hands-on showcase of how AI can revolutionize education using free and open-source tools.
